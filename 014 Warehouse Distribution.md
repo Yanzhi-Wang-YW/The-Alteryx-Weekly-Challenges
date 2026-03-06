@@ -15,4 +15,4 @@ The objective is to distribute items from the warehouse to each store, filling t
 > Inner join > Running total > Allocate
 > 
 
-[challenge_14_solution.yxmd](assets/14%20Warehouse%20Distribution/challenge_14_solution.yxmd)
+[challenge_14_solution.yxmd](assets/014%20Warehouse%20Distribution/challenge_14_solution.yxmd)

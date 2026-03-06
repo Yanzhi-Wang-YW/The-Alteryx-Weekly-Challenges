@@ -8,12 +8,12 @@ The result should be a table OR browse tool containing 3 columns: XLS File, Row2
 
 You will only have 2 xls files for this challenge, Book1 and Book2, but keep in mind that the use case is for 100s of Excel files with the same schema.  You won’t want to use 2 input tools since that would not scale to 100’s.  Also, for all data consumption, please check the box for First Row Contains Data.  This is because in the headers for an Excel file are in row #1
 
-![image.png](assets/19%20Excel%20Record%20Locator/image.png)
+![image.png](assets/019%20Excel%20Record%20Locator/image.png)
 
-![image.png](assets/19%20Excel%20Record%20Locator/image%201.png)
+![image.png](assets/019%20Excel%20Record%20Locator/image%201.png)
 
-[Book1.xls](assets/19%20Excel%20Record%20Locator/Book1.xls)
+[Book1.xls](assets/019%20Excel%20Record%20Locator/Book1.xls)
 
-[challenge_19_solution.yxmd](assets/19%20Excel%20Record%20Locator/challenge_19_solution.yxmd)
+[challenge_19_solution.yxmd](assets/019%20Excel%20Record%20Locator/challenge_19_solution.yxmd)
 
-[challenge_19_solution.yxmd](assets/19%20Excel%20Record%20Locator/challenge_19_solution%201.yxmd)
+[challenge_19_solution.yxmd](assets/019%20Excel%20Record%20Locator/challenge_19_solution%201.yxmd)

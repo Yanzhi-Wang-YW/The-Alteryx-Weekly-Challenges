@@ -13,4 +13,4 @@ This is only a subset of data so all records will not be assigned to buckets and
 > Cross join > Search key words > Group by and concatenate
 > 
 
-[challenge_11_start_file.yxmd](assets/11%20Identify%20Logical%20Groups/challenge_11_start_file.yxmd)
+[challenge_11_start_file.yxmd](assets/011%20Identify%20Logical%20Groups/challenge_11_start_file.yxmd)
