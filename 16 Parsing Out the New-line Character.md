@@ -11,4 +11,4 @@ The objective is to remove the new line character, convert the date-time string 
 > Cleansing line break > Convert date 01-Jan-10
 > 
 
-[challenge_16_start_file.yxmd](16%20Parsing%20Out%20the%20New-line%20Character/challenge_16_start_file.yxmd)
+[challenge_16_start_file.yxmd](assets/16%20Parsing%20Out%20the%20New-line%20Character/challenge_16_start_file.yxmd)
